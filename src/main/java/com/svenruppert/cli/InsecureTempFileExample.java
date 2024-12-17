@@ -5,6 +5,9 @@ import java.io.IOException;
 
 public class InsecureTempFileExample {
 
+  private InsecureTempFileExample() {
+  }
+
   public static void main(String[] args) throws IOException {
     File tempFile = new File("/tmp/tempfile.txt");
     tempFile.createNewFile();
