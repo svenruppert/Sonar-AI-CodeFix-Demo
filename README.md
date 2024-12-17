@@ -19,26 +19,6 @@ Tests are written for the services itself as well as for the REST Service.
 * Integration Tests for the REST Server
 *
 
-## Vulnerability - Hunting
-
-Even in small projects it is importand to scann for vulnerabilities.
-But mostly there is no budget for personal projects.
-What should you do? Well, you can combine different free offerings
-to see who is reporting faster in wich case. Most vendors are implementing it as Github-PR.
-So, see who is fast and what you will get.
-I will list a few provider so that you have a solid base to start with.
-
-* Snyk: https://snyk.io/
-* OXSecurity: https://app.ox.security/
-* FaradaySec: https://faradaysec.com/
-
-## Todos
-
-* Wie mache ich ein release? -jreleaser?
-* Compile in Docker
-* Run in Docker - Webservices..
-* PiTest in Docker mit Source Snapshot
-
 ## Requirements:
 
 - podman: Instead of Docker Desktop I´m using podman.
