@@ -412,11 +412,7 @@
           <artifactId>webdriverextensions-maven-plugin</artifactId>
           <version>3.4.0</version>
         </plugin>
-        <!--                <plugin>-->
-        <!--                    <groupId>de.sormuras.junit</groupId>-->
-        <!--                    <artifactId>junit-platform-maven-plugin</artifactId>-->
-        <!--                    <version>${junit-platform-maven-plugin.version}</version>-->
-        <!--                </plugin>-->
+
       </plugins>
     </pluginManagement>
     <plugins>
